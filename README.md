@@ -1,6 +1,9 @@
 # Python Data Structures – Practice Notebook
+
 Author - Nirja Pise
+
 Date - July 08, 2025
+
 📌 Topics Covered:
 - Numbers
 - Strings
