@@ -9,4 +9,5 @@ Date - July 08, 2025
 - Dictionaries
 - Sets
 - Booleans
-This is my first GitHub notebook — showing my Python basics journey!
+  
+This is my first GitHub notebook, showcasing my journey through Python basics!
