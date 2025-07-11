@@ -27,6 +27,7 @@ This is my first GitHub notebook, showcasing my journey through Python basics!
 Date - July 12, 2025
 
 📌 Topics Covered:
+
 Relational operators (`==`, `!=`, `>`, `<`, etc.)  
 Logical operators (`and`, `or`, `not`)  
 Chained conditions and real-life use cases (voting, login)  
