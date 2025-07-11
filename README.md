@@ -1,11 +1,11 @@
-Python-Practice!
+* Python-Practice!
 
-Author - Nirja Pise
+* Author - Nirja Pise
 
-This repository contains hands-on Jupyter Notebooks containing notes and practice exercises.
+* This repository contains hands-on Jupyter Notebooks containing notes and practice exercises.
 
 
-## Completed Notebooks
+## Completed Notebooks:
 
 # 1. Python Data Structures – Practice Notebook
 
