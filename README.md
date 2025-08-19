@@ -20,7 +20,7 @@ Date - July 08, 2025
 - Sets
 - Booleans
   
-This is my first GitHub notebook, showcasing my journey through Python basics!
+This is my first GitHub notebook, showcasing my journey through the basics of Python.
 
 # 2. Comparison & Logical Operators
 
@@ -28,8 +28,19 @@ Date - July 12, 2025
 
 📌 Topics Covered:
 
-Relational operators (`==`, `!=`, `>`, `<`, etc.)  
-Logical operators (`and`, `or`, `not`)  
-Chained conditions and real-life use cases (voting, login)  
+- Relational operators (`==`, `!=`, `>`, `<`, etc.)  
+- Logical operators (`and`, `or`, `not`)  
+- Chained conditions and real-life use cases (voting, login)  
 
+# 3. Python Flow Control & Functions
 
+Date - August 20, 2025
+
+📌 Topics Covered:
+- if-elif-else conditions
+- for loops (iteration, tuple unpacking, range, etc.)
+- while loops
+- Loop control statements: break, continue, pass
+- Functions (definition, parameters, return values, examples)
+
+This Jupyter Notebook covers the basics of flow control and functions in Python with step-by-step examples.
