@@ -44,3 +44,20 @@ Date - August 20, 2025
 - Functions (definition, parameters, return values, examples)
 
 This Jupyter Notebook covers the basics of flow control and functions in Python with step-by-step examples.
+
+# 4. Python List Comprehensions
+
+Date - August 20, 2025
+
+📌 Topics Covered:
+- Basic list comprehension examples
+- String operations with list comprehensions
+- Conditional list comprehensions
+- Practice problems with solutions
+
+This notebook contains examples and practice problems on List Comprehensions.
+List comprehensions provide a concise way to create lists in Python. They are widely used for filtering, mapping, and transforming data in just one line of code.
+
+
+  
+
